@@ -22,7 +22,7 @@ row_offset = 1
 letter_to_ascii_offset = 65
 
 #Obtained through Spreadsheet URL
-sheet_id = '1NhNcYMRfVZadlkkJENGSBQx7M2cjbTGJrgAMWWdREWI'
+sheet_id = ''
 def main():
     global day_of_year
 
